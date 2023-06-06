@@ -1,0 +1,175 @@
+Aptitude Assignment-2
+
+ANS-1
+
+
+Let's assume that initially, the mixture contains 2x liters of milk and 3x liters of water. The total quantity of the mixture is 2x + 3x = 5x liters.
+
+According to the given information, the quantity of milk in the mixture is 40 liters. So, we have:
+
+2x = 40
+
+Solving this equation, we find:
+
+x = 40/2
+x = 20
+
+Therefore, the initial mixture contains 2x = 2 * 20 = 40 liters of milk and 3x = 3 * 20 = 60 liters of water.
+
+Now, we need to find the quantity of water that should be added to change the milk-water ratio from 2:3 to 4:11.
+
+Let's assume we need to add y liters of water to achieve the desired ratio. After adding y liters of water, the new quantity of water in the mixture will be 60 + y liters.
+
+The new ratio of milk to water will be 40: (60 + y).
+
+According to the given ratio, we have:
+
+40 / (60 + y) = 4 / 11
+
+Cross-multiplying, we get:
+
+4(60 + y) = 40 * 11
+
+240 + 4y = 440
+
+4y = 440 - 240
+4y = 200
+
+y = 200 / 4
+y = 50
+
+Therefore, to change the milk-water ratio from 2:3 to 4:11 in a mixture initially containing 40 liters of milk, 50 liters of water should be added.
+
+
+
+ANS-2
+
+To find the points where the linear equation 2x + 3y = 0 intersects the x-axis and the y-axis, we can substitute the corresponding variables with zero and solve for the other variable.
+
+To find the point where the equation intersects the x-axis, we substitute y = 0:
+
+2x + 3(0) = 0
+
+2x = 0
+
+x = 0
+
+So, the point of intersection with the x-axis is (0, 0).
+
+To find the point where the equation intersects the y-axis, we substitute x = 0:
+
+2(0) + 3y = 0
+
+3y = 0
+
+y = 0
+
+Therefore, the point of intersection with the y-axis is also (0, 0).
+
+Hence, the linear equation 2x + 3y = 0 intersects both the x-axis and the y-axis at the origin (0, 0).
+
+
+ANS-3
+
+In the Question The equation should be a^2 - b^2 = 19 instead of a^2 - b^ = 19in the Question.
+
+Now, let's proceed with solving the corrected equation.
+
+We can factorize the equation a^2 - b^2 = 19 using the difference of squares formula:
+
+(a - b)(a + b) = 19
+
+Since a and b are positive integers, the factors (a - b) and (a + b) must also be positive integers.
+
+Now, let's consider the possible factor pairs of 19:
+
+1 * 19
+-1 * -19
+
+Since the factors should add up to a positive number (a + b), the only possible pair is:
+
+1 * 19
+
+This means we have:
+
+a - b = 1 ...(1)
+a + b = 19 ...(2)
+
+Adding equations (1) and (2), we get:
+
+2a = 20
+
+Dividing both sides by 2, we find:
+
+a = 10
+
+Substituting the value of a in equation (2), we can solve for b:
+
+10 + b = 19
+
+b = 19 - 10
+b = 9
+
+Therefore, the values of a and b that satisfy the equation a^2 - b^2 = 19 are a = 10 and b = 9.
+
+
+ANS-4
+
+(a + b + c)(a^2 + b^2 + c^2 - ab - ac - bc) = a^3 + b^3 + c^3 - 3abc
+
+Given that a + b + c = 5 and a^2 + b^2 + c^2 = 10, we can substitute these values into the identity:
+
+(5)(10 - ab - ac - bc) = a^3 + b^3 + c^3 - 3abc
+
+Expanding the left side:
+
+50 - 5ab - 5ac - 5bc = a^3 + b^3 + c^3 - 3abc
+
+Now, we need to find the value of ab, ac, and bc. To do that, we can square the equation a + b + c = 5:
+
+(a + b + c)^2 = 5^2
+
+a^2 + b^2 + c^2 + 2ab + 2ac + 2bc = 25
+
+Substituting a^2 + b^2 + c^2 = 10:
+
+10 + 2ab + 2ac + 2bc = 25
+
+2ab + 2ac + 2bc = 15
+
+Dividing both sides by 2:
+
+ab + ac + bc = 7.5
+
+Now, we can substitute this value into the equation we obtained earlier:
+
+50 - 5(7.5) = a^3 + b^3 + c^3 - 3abc
+
+50 - 37.5 = a^3 + b^3 + c^3 - 3abc
+
+12.5 = a^3 + b^3 + c^3 - 3abc
+
+Therefore, the value of a^3 + b^3 + c^3 + 3abc is 27.5.
+
+ANS-5
+
+
+Let's assume the first two-digit number is represented by the digits "xy," where x and y are consecutive positive integers. Therefore, the digits can be either 12, 23, 34, 45, 56, 67, 78, or 89.
+
+When the digits of the first number are reversed, the second number is formed. So, the second number can be represented by the digits "yx."
+
+Now, let's find the sum of these two-digit numbers and check if it is a perfect square.
+
+For the first case, where the digits are 12:
+12 + 21 = 33, which is not a perfect square.
+
+For the second case, where the digits are 23:
+23 + 32 = 55, which is a perfect square (55 = 5^2).
+
+Therefore, the two-digit numbers that satisfy the given conditions are 23 and 32.
+
+To find the square root of their sum:
+23 + 32 = 55
+√55 ≈ 7.41619848709
+
+Hence, the two-digit numbers are 23 and 32, and the square root of their sum is approximately 7.41619848709.
